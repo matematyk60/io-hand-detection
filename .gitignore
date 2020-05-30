@@ -1,0 +1,5 @@
+venv
+**.jpg
+.idea
+*.iml
+detector.svm

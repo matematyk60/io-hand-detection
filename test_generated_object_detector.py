@@ -1,4 +1,3 @@
-import sys
 import dlib
 import cv2
 import imutils
